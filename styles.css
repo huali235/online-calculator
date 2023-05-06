@@ -149,4 +149,9 @@ button {
   height: 6rem;
   margin-left: 1.2rem;
   color: white;
+  cursor: pointer;
+}
+
+.operator-style {
+  color: #339af0;
 }
